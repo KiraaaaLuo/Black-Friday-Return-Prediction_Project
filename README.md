@@ -12,7 +12,7 @@
 
 This week, we performed basic data cleaning and importing the dataset into the PostgreSQL server.  
 
-In addition, we also made some summary statistics about the dataset. (see ESD_Project_Week1_Update.pdf)
+In addition, we also made some summary statistics about the dataset. (see more details [here](updates/week4.pdf))
 
 For next week, we are going to continue working on data cleaning and understanding of the data, including basic EDA process. After having a decent understanding of the dataset, then we can proceed to brainstorm interesting questions related to machine learning so that we can work on them further for the rest of the weeks.
 </details>
