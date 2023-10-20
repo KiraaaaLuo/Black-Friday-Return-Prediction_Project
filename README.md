@@ -3,35 +3,45 @@
 ## Weekly Updates
 
 <details open>
-  <summary>Week 5</summary><br>
-⦁At week 5, we are at stage 2 - Data Cleaning <br /> 
-Data Cleaning Details are listed as followings:   <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1. We changed the datatype of each column of 5 tables to make sure the datatype of each column are correct.  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;2. For the table of skuinfo, in the column of packsize, there are some packsize that does not make sense, including "G", "N/A","Bizzare","Promo test", and etc. In order to stay maintain the sku on record, we use mode, which is 1, to replace these strange values.  
-For detailed script, please visit: [here](2.Data_Cleaning/week5.pdf)  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;3. This week, we spent a lot of time on exploring the project research topic we want to explore: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-According to the prices' different features (e.g. color, style, vendor, brand) to do a classidication model, such that we could use these classification on products to predict what are the preferences of different customers. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Another possible direction is to help Dillards to increase sales, by investing prodcuts combined with which features are most welcomed and which ones are least welcomed, we could apply different discounts accordingly to increase sales revenue. This could be conducted through machine learning models like random forest model. <br><br>
-  
+  <summary>Week 5</summary>
+<h3>At week 5, we are at stage 2 - Data Cleaning</h3>
 
-⦁ To Do:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.Continue with stage2:Data Cleaning. Determine the project research direction and clean the datasets accordingly (e.g. drop unnecessary columns, select a subset of data to work with);<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2.After filter the data we need, check the data thoroughly to see whether there are some bizzare and null values that don't make any sense, drop those rows or replace them with mean/ mode depending on the variable type/ distribution of the data.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;3. Choose the ML/clustering model we are going to work with. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;4.start with EDA and analyze and investigate data sets and summarize their main characteristics, employed with data visualization. 
+Data Cleaning Details are listed as follows:
 
+  1. We changed the datatype of each column of 5 tables to make sure the datatype of each column is correct.
+
+  2. For the table of skuinfo, in the column of packsize, there are some pack sizes that do not make sense, including "G", "N/A", "Bizarre", "Promo test," and so on. In order to maintain the sku on record, we use the mode, which is 1, to replace these strange values. For detailed script, please visit: [here](2.Data_Cleaning/week5.pdf).
+
+  3. This week, we spent a lot of time exploring the project research topic we want to explore:
+
+      - According to the prices' different features (e.g. color, style, vendor, brand) to do a classification model so that we could use these classifications on products to predict the preferences of different customers.
+
+      - Another possible direction is to help Dillards increase sales by investing in products combined with the features that are most welcomed and which ones are least welcomed. We could apply different discounts accordingly to increase sales revenue. This could be conducted through machine learning models like a random forest model.
+
+  To Do:
+  1. Continue with stage 2: Data Cleaning. Determine the project research direction and clean the datasets accordingly (e.g. drop unnecessary columns, select a subset of data to work with).
+
+  2. After filtering the data we need, check the data thoroughly to see whether there are some bizarre and null values that don't make any sense, drop those rows, or replace them with the mean/mode depending on the variable type/distribution of the data.
+
+  3. Choose the ML/clustering model we are going to work with.
+
+  4. Start with EDA and analyze and investigate data sets and summarize their main characteristics, employed with data visualization.
 </details>
 
-<details open>
-  <summary>Week 4</summary> <br>
-⦁ At week 4, we are at stage 1 - Data Overview&Description <br >
-This week, we performed basic data cleaning and importing the dataset into the PostgreSQL server.  
-In addition, we also made some summary statistics about the dataset. See more details here [test](1.Data%20Overview&%20Description/Week4.pdf) (https://github.com/nu-mlds-group/mlds400-group2/blob/main/1.Data%20Overview%26%20Description/Week4.pdf)<br /><br />
+<details>
+  <summary>Week 4</summary>
+  <h3>At week 4, we are at stage 1 - Data Overview & Description</h3>
 
-⦁ To Do: <br />
-we are going to continue working on data cleaning and understanding of the data, including basic EDA process. After having a decent understanding of the dataset, then we can proceed to brainstorm interesting questions related to machine learning so that we can work on them further for the rest of the weeks.
+  1. This week, we performed basic data cleaning and imported the dataset into the PostgreSQL server.
+
+  2. we also made some summary statistics about the dataset. See more details [here](1.Data Overview & Description/Week4.pdf).
+
+To Do:
+
+  1. We are going to continue working on data cleaning and understanding of the data, including basic EDA process.
+
+  2. After having a decent understanding of the dataset, then we can proceed to brainstorm interesting questions related to machine learning so that we can work on them further for the rest of the weeks.
 </details>
-
 
 
 ## Project Description
