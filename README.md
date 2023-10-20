@@ -4,7 +4,7 @@
 
 <details>
   <summary>Week 5</summary>
-  This week, we performed data cleaning. Details are listed as followings:
+  This week, we performed data cleaning. Details are listed as followings:   <br />
   1.we change the datatype of each column of 5 tables to make sure the datatype of each column are correct. 
 </details>
 
