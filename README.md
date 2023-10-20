@@ -4,7 +4,8 @@
 
 <details>
   <summary>Week 5</summary>
-  todo
+  This week, we performed data cleaning. Details are listed as followings:
+  1.we change the datatype of each column of 5 tables to make sure the datatype of each column are correct. 
 </details>
 
 <details open>
