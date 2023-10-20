@@ -14,7 +14,7 @@
   <summary>Week 4</summary>
 Currently, we are at stage 1 - Data Overview&Description <br /><br />
 This week, we performed basic data cleaning and importing the dataset into the PostgreSQL server.  
-In addition, we also made some summary statistics about the dataset. (see more details [here](updates/week4.pdf))
+In addition, we also made some summary statistics about the dataset. See more details here (https://github.com/nu-mlds-group/mlds400-group2/blob/main/updates/week4.pdf)
 
 For next week, we are going to continue working on data cleaning and understanding of the data, including basic EDA process. After having a decent understanding of the dataset, then we can proceed to brainstorm interesting questions related to machine learning so that we can work on them further for the rest of the weeks.
 </details>
