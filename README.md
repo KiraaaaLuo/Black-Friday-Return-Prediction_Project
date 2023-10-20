@@ -15,9 +15,9 @@ For detailed script, please visit: (https://github.com/nu-mlds-group/mlds400-gro
   
 
 ⦁ To Do:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.Continue with stage2:Data Cleaning. Determine the project research direction and clean the datasets accordingly (e.g. drop unnecessary columns, select a subset of data to work with);
-&nbsp;&nbsp;&nbsp;&nbsp;2.After filter the data we need, check the data thoroughly to see whether there are some bizzare and null values that don't make any sense, drop those rows or replace them with mean/ mode depending on the variable type/ distribution of the data. 
-&nbsp;&nbsp;&nbsp;&nbsp;3. Choose the ML/clustering model we are going to work with. 
+&nbsp;&nbsp;&nbsp;&nbsp;1.Continue with stage2:Data Cleaning. Determine the project research direction and clean the datasets accordingly (e.g. drop unnecessary columns, select a subset of data to work with);<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.After filter the data we need, check the data thoroughly to see whether there are some bizzare and null values that don't make any sense, drop those rows or replace them with mean/ mode depending on the variable type/ distribution of the data.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. Choose the ML/clustering model we are going to work with. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;4.start with EDA and analyze and investigate data sets and summarize their main characteristics, employed with data visualization. 
 
 </details>
