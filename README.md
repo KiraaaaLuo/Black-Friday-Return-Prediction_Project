@@ -2,18 +2,18 @@
 
 ## Weekly Updates
 
-<details>
+<details open>
   <summary>Week 5</summary>
-  This week, we performed data cleaning. Details are listed as followings:   <br />
-  1.we change the datatype of each column of 5 tables to make sure the datatype of each column are correct. 
-  2.for the table of skuinfo, in the column of packsize, there are some packsize 
+  At week 5, we are at stage 2 - data Cleaning <br /><br />
+  Data cleaning Details are listed as followings:   <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;1.we change the datatype of each column of 5 tables to make sure the datatype of each column are correct.  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;2.for the table of skuinfo, in the column of packsize, there are some packsize that does not make sense, including "G", "N/A","Bizzare","Promo test", and etc. In order to stay maintain the sku on record, we use mode, which is 1, to replace these strange values.  
 </details>
 
-<details open>
+<details>
   <summary>Week 4</summary>
-
+Currently, we are at stage 1 - data Overview&Description <br /><br />
 This week, we performed basic data cleaning and importing the dataset into the PostgreSQL server.  
-
 In addition, we also made some summary statistics about the dataset. (see more details [here](updates/week4.pdf))
 
 For next week, we are going to continue working on data cleaning and understanding of the data, including basic EDA process. After having a decent understanding of the dataset, then we can proceed to brainstorm interesting questions related to machine learning so that we can work on them further for the rest of the weeks.
