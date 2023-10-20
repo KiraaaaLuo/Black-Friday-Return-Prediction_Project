@@ -4,15 +4,15 @@
 
 <details open>
   <summary>Week 5</summary>
-  At week 5, we are at stage 2 - data Cleaning <br /><br />
-  Data cleaning Details are listed as followings:   <br />
+  At week 5, we are at stage 2 - Data Cleaning <br /><br />
+  Data Cleaning Details are listed as followings:   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;1.we change the datatype of each column of 5 tables to make sure the datatype of each column are correct.  <br />
   &nbsp;&nbsp;&nbsp;&nbsp;2.for the table of skuinfo, in the column of packsize, there are some packsize that does not make sense, including "G", "N/A","Bizzare","Promo test", and etc. In order to stay maintain the sku on record, we use mode, which is 1, to replace these strange values.  
 </details>
 
 <details>
   <summary>Week 4</summary>
-Currently, we are at stage 1 - data Overview&Description <br /><br />
+Currently, we are at stage 1 - Data Overview&Description <br /><br />
 This week, we performed basic data cleaning and importing the dataset into the PostgreSQL server.  
 In addition, we also made some summary statistics about the dataset. (see more details [here](updates/week4.pdf))
 
