@@ -34,7 +34,7 @@ Data Cleaning Details are listed as follows:
 
   1. This week, we performed basic data cleaning and imported the dataset into the PostgreSQL server.
 
-  2. we also made some summary statistics about the dataset. See more details [here](1.Data Overview & Description/Week4.pdf).
+  2. we also made some summary statistics about the dataset. See more details [here](1.Data_Overview&Description/Week4.pdf).
 
 To Do:
 
