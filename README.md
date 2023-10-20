@@ -4,9 +4,9 @@
 
 <details open>
   <summary>Week 5</summary>
-<h3>At week 5, we are at stage 2 - Data Cleaning</h3>
+At week 5, we are at stage 2 - Data Cleaning
 
-Data Cleaning Details are listed as follows:
+<h3>Data Cleaning Details are listed as follows:</h3>
 
   1. We changed the datatype of each column of 5 tables to make sure the datatype of each column is correct.
 
@@ -18,7 +18,8 @@ Data Cleaning Details are listed as follows:
 
       - Another possible direction is to help Dillards increase sales by investing in products combined with the features that are most welcomed and which ones are least welcomed. We could apply different discounts accordingly to increase sales revenue. This could be conducted through machine learning models like a random forest model.
 
-  To Do:
+  <h3>To Do:</h3>
+
   1. Continue with stage 2: Data Cleaning. Determine the project research direction and clean the datasets accordingly (e.g. drop unnecessary columns, select a subset of data to work with).
 
   2. After filtering the data we need, check the data thoroughly to see whether there are some bizarre and null values that don't make any sense, drop those rows, or replace them with the mean/mode depending on the variable type/distribution of the data.
@@ -36,7 +37,7 @@ Data Cleaning Details are listed as follows:
 
   2. we also made some summary statistics about the dataset. See more details [here](1.Data_Overview&Description/Week4.pdf).
 
-To Do:
+<h3>To Do:</h3>
 
   1. We are going to continue working on data cleaning and understanding of the data, including basic EDA process.
 
