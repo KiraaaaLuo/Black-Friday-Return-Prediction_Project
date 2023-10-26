@@ -7,12 +7,11 @@ At week 6, we are at stage 2 - Data Cleaning and choose the general direction to
 
 <h3>Data Cleaning & Research Topic Choice Details are listed as follows:</h3>
 
-  1. We choose our general research direction: select a subset of Black Friday sales data (by selecting saledate='2004-11-24') and we will investigate the best-seller and worst-seller products and their features by EDA. Then, we want to work towards a classification model to classify what features made products sold well, especially for Black Friday. So Dillard could recommend products with these features to customers in the following Black Fridays to increase sales. Also, we will complicate our model selections in the following weeks, including the add-on of some other models and model validation. But building a classification model would be our first step. 
+  1. We choose our **general research direction**: select a subset of Black Friday sales data (by selecting saledate='2004-11-24') and we will investigate the best-seller and worst-seller products and their features by EDA. Then, we want to work towards a classification model to classify what features made products sold well, especially for Black Friday. So Dillard could recommend products with these features to customers in the following Black Fridays to increase sales. Also, we will complicate our model selections in the following weeks, including the add-on of some other models and model validation. But building a classification model would be our first step. 
 
-  2. Data Cleaning:
-     
-     - select a subset of Black Friday sales data and export the file for us to do some EDA (select * from group_2.trnsact where saledate='2004-11-24';). Please visit: [ESD_Dataset_Black_Friday_subset](ESD_Dataset_Black_Friday_subset). Meanwhile, we update this new table in our database as well.
-     - deal with null values: import sql into python and then we found that 
+  2. **Data Cleaning**:
+     - Export a Subset: select a subset of Black Friday sales data and export the file for us to do some EDA (select * from group_2.trnsact where saledate='2004-11-24';). Please visit: [ESD_Dataset_Black_Friday_subset](ESD_Dataset_Black_Friday_subset). Meanwhile, we update this new table in our database as well.
+     - Deal with null values: import sql into python and then we found that 
 
   <h3>To Do:</h3>
 
