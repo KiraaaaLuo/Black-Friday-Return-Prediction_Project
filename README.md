@@ -14,7 +14,7 @@ At week 5, we are at stage 2 - Data Cleaning
 
   3. This week, we spent a lot of time exploring the project research topic we want to explore:
 
-      - According to the prices' different features (e.g. color, style, vendor, brand) to do a classification model so that we could use these classifications on products to predict the preferences of different customers.
+      - According to the products' different features (e.g. color, style, vendor, brand) to do a classification model so that we could use these classifications on products to predict the preferences of different customers.
 
       - Another possible direction is to help Dillards increase sales by investing in products combined with the features that are most welcomed and which ones are least welcomed. We could apply different discounts accordingly to increase sales revenue. This could be conducted through machine learning models like a random forest model.
 
