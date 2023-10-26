@@ -11,13 +11,13 @@ At week 6, we are at stage 2 - Data Cleaning and choose the general direction to
 
   2. **Data Cleaning**:
      - Export a Subset: select a subset of Black Friday sales data and export the file for us to do some EDA (select * from group_2.trnsact where saledate='2004-11-24';). Please visit: [ESD_Dataset_Black_Friday_subset](ESD_Dataset_Black_Friday_subset). Meanwhile, we update this new table in our database as well.
-     - Deal with null values and some basic EDA: details here [week 6 update]()
+     - Deal with null values and some basic EDA about the TRNSACT table: details here [week 6 update](week5.pdf)
 
   <h3>To Do:</h3>
 
-  1. Continue with stage 2: Data Cleaning. Focus more removing null values, standardize data type, EDA, and data visualization. 
-
-  2. Work towards feature selection and build the classification model
+  1. Continue with stage 2: Data Cleaning. Focus more removing null values, standardize data type, EDA, and data visualization.
+  2. Inner join TRNSACT with other tables with another table called skstinfo to find the retail price to see whether we should drop or keep these transactions which has orgprice=0
+  3. Work towards feature selection and build the classification model
 
 </details>
 
