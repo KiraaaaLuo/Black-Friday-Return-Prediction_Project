@@ -2,7 +2,11 @@
 
 ## Weekly Updates
 
-<details open>
+
+
+
+
+<details>
   <summary>Week 5</summary>
 At week 5, we are at stage 2 - Data Cleaning
 
