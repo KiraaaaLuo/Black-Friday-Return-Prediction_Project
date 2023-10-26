@@ -11,7 +11,7 @@ At week 6, we are at stage 2 - Data Cleaning and choose the general direction to
 
   2. **Data Cleaning**:
      - Export a Subset: select a subset of Black Friday sales data and export the file for us to do some EDA (select * from group_2.trnsact where saledate='2004-11-24';). Please visit: [ESD_Dataset_Black_Friday_subset](ESD_Dataset_Black_Friday_subset). Meanwhile, we update this new table in our database as well.
-     - Deal with null values: import sql into python and then we found that 
+     - Deal with null values and some basic EDA: details here [week 6 update]()
 
   <h3>To Do:</h3>
 
