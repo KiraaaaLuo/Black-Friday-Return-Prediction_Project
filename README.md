@@ -13,7 +13,7 @@ At week 7, we are at end of stage 2 - Data Cleaning and the start of stage 3 - E
      - Browse data and do some simple EDA. 
 
   3. **EDA**: 
-     -   details here [week 7 update](3.EDA/Week 7.ipynb)
+     -   details here [week 7 update](3.EDA/Week_7.ipynb)
   
   <h3>To Do:</h3>
 
