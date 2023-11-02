@@ -2,6 +2,27 @@
 
 ## Weekly Updates
 <details open>
+  <summary>Week 7</summary>
+At week 7, we are at end of stage 2 - Data Cleaning and start of stage 3 - EDA.
+
+<h3>Data Cleaning & Research Topic Choice Details are listed as follows:</h3>
+
+  1. **Data Cleaning**:
+     - Check Data Duplicates: there is no duplicates.
+     - This the the end of our data cleaning
+
+  2. **Data Cleaning**: 
+     -   details here [week 6 update](https://github.com/nu-mlds-group/mlds400-group2/blob/main/2.Data_Cleaning/MLDS_400_Black%20Friday_subset.ipynb)
+  <h3>To Do:</h3>
+
+  1. Continue with stage 2: Data Cleaning. Focus more removing null values, standardize data type, EDA, and data visualization.
+  2. Inner join TRNSACT with other tables with another table called skstinfo to find the retail price to see whether we should drop or keep these transactions which has orgprice=0
+  3. Work towards feature selection and build the classification model
+
+</details>
+
+
+<details>
   <summary>Week 6</summary>
 At week 6, we are at stage 2 - Data Cleaning and choose the general direction to work towards
 
