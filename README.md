@@ -3,15 +3,17 @@
 ## Weekly Updates
 <details open>
   <summary>Week 7</summary>
-At week 7, we are at end of stage 2 - Data Cleaning and start of stage 3 - EDA.
+At week 7, we are at end of stage 2 - Data Cleaning and the start of stage 3 - EDA.
 
 <h3>Data Cleaning & Research Topic Choice Details are listed as follows:</h3>
 
   1. **Data Cleaning**:
-     - Check Data Duplicates: there is no duplicates.
+     - Check Data Duplicates: there is no duplicates for .
+     - Check Outliers: 
      - This the the end of our data cleaning
 
-  2. **Data Cleaning**: 
+  3. **EDA**: 
+     -inner join 
      -   details here [week 6 update](https://github.com/nu-mlds-group/mlds400-group2/blob/main/2.Data_Cleaning/MLDS_400_Black%20Friday_subset.ipynb)
   <h3>To Do:</h3>
 
