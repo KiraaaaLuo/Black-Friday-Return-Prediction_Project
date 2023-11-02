@@ -5,7 +5,7 @@
   <summary>Week 7</summary>
 At week 7, we are at end of stage 2 - Data Cleaning and the start of stage 3 - EDA.
 
-<h3>Data Cleaning & Research Topic Choice Details are listed as follows:</h3>
+<h3>Data Cleaning & EDA Details are listed as follows:</h3>
 
   1. **Data Cleaning**:
      - Select a subset of data, inner join 3 tables trnsact+skuinfo+sksinfo, details here [JOINED_TABLE](JOINED_trnsact+skuinfo+sksinfo.csv)
