@@ -8,18 +8,18 @@ At week 7, we are at end of stage 2 - Data Cleaning and the start of stage 3 - E
 <h3>Data Cleaning & Research Topic Choice Details are listed as follows:</h3>
 
   1. **Data Cleaning**:
-     - Check Data Duplicates: there is no duplicates for .
-     - Check Outliers: 
-     - This the the end of our data cleaning
+     - Select a subset of data, inner join 3 tables trnsact+skuinfo+sksinfo, details here [week 6 update](JOINED_trnsact+skuinfo+sksinfo.csv)
+     - Check Data Duplicates& Outliers& Null values: drop N/A values, check outliers and duplicates.
+     - Browse data and do some simple EDA. 
 
   3. **EDA**: 
-     -inner join 
-     -   details here [week 6 update](https://github.com/nu-mlds-group/mlds400-group2/blob/main/2.Data_Cleaning/MLDS_400_Black%20Friday_subset.ipynb)
+     -   details here [week 7 update]()
+  
   <h3>To Do:</h3>
 
-  1. Continue with stage 2: Data Cleaning. Focus more removing null values, standardize data type, EDA, and data visualization.
-  2. Inner join TRNSACT with other tables with another table called skstinfo to find the retail price to see whether we should drop or keep these transactions which has orgprice=0
-  3. Work towards feature selection and build the classification model
+  1. Continue with stage 2: Data Cleaning. Continue to work on outliers. 
+  2. We planned to do a supervised learning problem which tries to predict whether a product would be purchased or returned (or possibly not being purchased). X is set as groupby SKUID and sum the profit of each product, which is (retail price-cost)*quantity and it means what profit each product could bring to Dillard. And we planned to set Y as a categorical variable that whether a product would be purchased or returned (or possibly not being purchased). 
+  3. Work towards feature engineering and the prediction model 
 
 </details>
 
