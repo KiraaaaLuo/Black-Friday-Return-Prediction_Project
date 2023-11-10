@@ -10,7 +10,7 @@ At week 8, we having finished data cleaning and at the middle of EDA (stage 3).
   1. **EDA**: 
      - We looked into three categorical features (color, style, size) from skuinfo in the joined table. They all have many categories and some categories are hard to interprete based on their name alone. Therefore, we generalized those categories either by marking them as the "other" group or drop them directly.
 
-     - details here [week 8 update](3.EDA/Week_7.ipynb)
+     - details here [week 8 update](3.EDA/Week_8.ipynb)
   
   <h3>To Do:</h3>
 
