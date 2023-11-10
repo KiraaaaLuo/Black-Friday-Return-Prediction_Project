@@ -1,7 +1,7 @@
 # MLDS-400 Group 2
 
 ## Weekly Updates
-<details>
+<details open>
   <summary>Week 8</summary>
 At week 8, we having finished data cleaning and at the middle of EDA (stage 3).
 
