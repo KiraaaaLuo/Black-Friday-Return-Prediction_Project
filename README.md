@@ -1,7 +1,25 @@
 # MLDS-400 Group 2
 
 ## Weekly Updates
-<details open>
+<details>
+  <summary>Week 8</summary>
+At week 8, we having finished data cleaning and at the middle of EDA (stage 3).
+
+<h3>EDA Details are listed as follows:</h3>
+
+  1. **EDA**: 
+     - We looked into three categorical features (color, style, size) from skuinfo in the joined table. They all have many categories and some categories are hard to interprete based on their name alone. Therefore, we generalized those categories either by marking them as the "other" group or drop them directly.
+
+     - details here [week 8 update](3.EDA/Week_7.ipynb)
+  
+  <h3>To Do:</h3>
+
+  1. Continue with stage 3: Continue to work on categorical and numerical features. 
+  2. We have outlined our strategy for a supervised learning problem aimed at predicting the likelihood of a product being purchased, returned, or not purchased. In this approach, we designate X by grouping the data using SKUID and aggregating the profit for each product. The profit calculation involves subtracting the cost from the retail price and then multiplying by the quantity, representing the potential profit each product could generate for Dillard. Additionally, we intend to define Y as a categorical variable indicating whether a product falls into the categories of being purchased, returned, or not purchased.
+  3. Work more on feature engineering and the prediction model.  
+</details>
+
+<details>
   <summary>Week 7</summary>
 At week 7, we are at end of stage 2 - Data Cleaning and the start of stage 3 - EDA.
 
