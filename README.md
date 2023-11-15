@@ -19,7 +19,7 @@ At week 9, we start feature engineering and model selection.
   3. compare the model metrics and derive insights from the models about products with which features would be purchased/ or returned. 
 </details>
 
-<details open>
+<details>
   <summary>Week 8</summary>
 At week 8, we having finished data cleaning and at the middle of EDA (stage 3).
 
