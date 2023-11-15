@@ -2,6 +2,24 @@
 
 ## Weekly Updates
 <details open>
+  <summary>Week 9</summary>
+At week 9, we start feature engineering and model selection.
+
+<h3>Feature Engineering & Modeling Details are listed as follows:</h3>
+
+  1. **Feature Engineering**: 
+     - We looked into three categorical features (color, style, size) from skuinfo in the joined table. They all have many categories and some categories are hard to interprete based on their name alone. Therefore, we generalized those categories either by marking them as the "other" group or drop them directly.
+
+     - details here [week 8 update](3.EDA/Week_8.ipynb)
+  
+  <h3>To Do:</h3>
+
+  1. Deal with the imbalanced dataset using SMOTE - Synthetic Minority Over-sampling Technique
+  2. Build the Model: we plan to build 3 models: 1.regression 2.random forest 3.K-means clustering
+  3. compare the model metrics and derive insights from the models about products with which features would be purchased/ or returned. 
+</details>
+
+<details>
   <summary>Week 8</summary>
 At week 8, we having finished data cleaning and at the middle of EDA (stage 3).
 
