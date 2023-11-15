@@ -2,7 +2,7 @@
 
 ## Weekly Updates
 <details open>
-  <summary>Week 8</summary>
+  <summary>Week 9</summary>
 At week 9, we start feature engineering and model selection.
 
 <h3>Feature Engineering & Modeling Details are listed as follows:</h3>
