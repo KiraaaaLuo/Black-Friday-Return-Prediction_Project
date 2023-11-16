@@ -7,10 +7,21 @@ At week 9, we start feature engineering and model selection.
 
 <h3>Feature Engineering & Modeling Details are listed as follows:</h3>
 
-  1. **Feature Engineering**: 
-     - We looked into three categorical features (color, style, size) from skuinfo in the joined table. They all have many categories and some categories are hard to interprete based on their name alone. Therefore, we generalized those categories either by marking them as the "other" group or drop them directly.
+  1. **Feature Engineering**:
+     - deal with outliers
+     - we decide to select the following features, and they could be divided into 2 categories:
+        - categorical (make sure they are classified into tens of categories):
+        style/
+        standardized_color/
+        standardized_size/
+        vendor/
+        brand
+       
+       - numerical(standardize them for further model building) :
+        retail price/
+        packsize
 
-     - details here [week 8 update](3.EDA/Week_8.ipynb)
+     - details here [week 9 update](3.EDA/Week_8.ipynb)
   
   <h3>To Do:</h3>
 
