@@ -21,7 +21,7 @@ At week 9, we start feature engineering and model selection.
         retail price/
         packsize
 
-     - details here [week 9 update](3.EDA/Week_8.ipynb)
+     - details here [week 9 update](4.Feature_Selection/Week_9.ipynb)
   
   <h3>To Do:</h3>
 
