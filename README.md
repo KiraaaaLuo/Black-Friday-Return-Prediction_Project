@@ -15,6 +15,7 @@ At week 10, we start some preprocessing, model building, and model selection.
      - details here [week 10 update](4.Feature_Selection/Week_9.ipynb)
   
   <h3>To Do:</h3>
+  
   1. Finalize all the models with evaluation metrics
   2. Start to build the Dashboards & make slides
   3. Calculate ROI 
