@@ -2,6 +2,27 @@
 
 ## Weekly Updates
 <details open>
+  <summary>Week 10</summary>
+At week 10, we start feature engineering and model selection.
+
+<h3> Modeling Building Details are listed as follows:</h3>
+
+  1. **Modeling Building**:
+     -  preprocessing: SMOTE and one-hot encoding
+     -  Build the Model: we successfully built 3 models: 1.regression 2.random forest 3.K-means clustering
+     -  evaluate the model performance by either precision/recall/F1 (categorial) OR R2/MSE/RMSE (numerical)
+     -  compare the models and choose the one with best performances
+     - details here [week 10 update](4.Feature_Selection/Week_9.ipynb)
+  
+  <h3>To Do:</h3>
+
+  1. Finalize all the models with evaluation metrics
+  2. Start to build the Dashboards & make slides
+  3. Calculate ROI 
+</details>
+
+
+<details>
   <summary>Week 9</summary>
 At week 9, we start feature engineering and model selection.
 
