@@ -9,7 +9,7 @@ At week 10, we start some preprocessing, model building, and model selection.
 
   1. **Modeling Building**:
      -  preprocessing: SMOTE and one-hot encoding
-     -  Build the Model: we successfully built 3 models: 1.regression 2.random forest 3.K-means clustering
+     -  Build the Model: we successfully built 3 models: 1.regression 2.K-means clustering 3.random forest
      -  evaluate the model performance by either precision/recall/F1 (categorial) OR R2/MSE/RMSE (numerical)
      -  compare the models and choose the one with best performances
      - details here [week 10 update](5.Model_Training&Selection/Week_10.ipynb)
