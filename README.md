@@ -2,6 +2,52 @@
 
 ## Weekly Updates
 <details open>
+  <summary>Week 11</summary>
+  
+# Week 11 Update: ROI Analysis
+
+## Progress Summary:
+
+In Week 11, our primary focus was on finalizing the models, preparing for the presentation with the creation of Dashboards and slides, and initiating the calculation of Return on Investment (ROI).
+
+## Model Finalization:
+
+1. **Model Evaluation Metrics:**
+   - We successfully completed the evaluation of all three models (Regression, K-means clustering, Random Forest) using appropriate metrics such as precision, recall, F1 for categorical models, and R2, MSE, RMSE for numerical models.
+
+2. **Model Selection:**
+   - After a thorough comparison of model performances, we have identified the model that demonstrated the best results across our chosen metrics. The details of this process can be found in [Week 10 update](5.Model_Training&Selection/Week_10.ipynb).
+
+## Dashboard and Presentation Preparation:
+
+1. **Dashboards:**
+   - The process of building Dashboards has been initiated to visually represent key findings and insights from the models. These will provide a clear and concise overview for stakeholders.
+
+2. **Slides:**
+   - Initial slides for the presentation have been drafted. These will serve as a foundation for conveying our approach, methodology, and the impact of our models.
+
+## ROI Calculation:
+
+1. **Initiating ROI Analysis:**
+   - We have started the ROI calculation process, considering the potential impact of our models on business outcomes. The goal is to quantify the return on investment, taking into account the expected benefits and costs associated with model implementation.
+
+## To Do for Next Week:
+
+1. **Complete ROI Analysis:**
+   - Finalize the ROI calculation, incorporating all relevant factors such as increased revenue, cost of implementation, and potential cost savings.
+
+2. **Refine Dashboards and Slides:**
+   - Continue refining and enhancing the dashboards and presentation slides for a polished and informative delivery.
+
+3. **Prepare for Stakeholder Meeting:**
+   - Anticipate any questions or feedback from stakeholders and be prepared to address them during the upcoming meeting.
+
+Our progress is on track, and we are excited to present the comprehensive results of our analysis in the upcoming weeks.
+
+</details>
+
+
+<details>
   <summary>Week 10</summary>
 At week 10, we start some preprocessing, model building, and model selection.
 
