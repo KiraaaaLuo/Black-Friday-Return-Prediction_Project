@@ -8,7 +8,7 @@
 
 ## Progress Summary:
 
-In Week 11, our primary focus was on finalizing the models, preparing for the presentation with the creation of Dashboards and slides, and initiating the calculation of Return on Investment (ROI).
+In Week 11, our primary focus was on finalizing the models, preparing for the presentation with the creation of Dashboards and slides, and initiating the calculation of [Return on Investment (ROI)](6.Deliverable/ROI.pdf).
 
 ## Model Finalization:
 
