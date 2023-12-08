@@ -2,6 +2,13 @@
 
 ## Weekly Updates
 <details open>
+  <summary>Week 12/ Final Week Update</summary>
+
+<h3> Our final deliverables are all listed in [6.Deliverable] File. </h3>
+
+</details>
+
+<details>
   <summary>Week 11</summary>
   
 # Week 11 Update: ROI Analysis
